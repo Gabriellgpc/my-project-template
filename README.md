@@ -1,1 +1,3 @@
-# my-project-template
+# Project Template
+
+Project Template based on Docker environment
